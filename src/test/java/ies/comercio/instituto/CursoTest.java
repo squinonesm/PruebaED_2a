@@ -5,10 +5,10 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 /**
- *
- * <p>
- * Autor: SergioQuiñonesMajuelo Version: 0.1 Fecha: 09-04-2024
- * </p>
+ * Pruebas unitarias para la clase Curso.
+ * Autor: Sergio Quiñones Majuelo
+ * Versión: 0.1
+ * Fecha: 09-04-2024
  */
 public class CursoTest {
 
@@ -18,6 +18,7 @@ public class CursoTest {
     
     /**
      * Configuración inicial para cada prueba.
+     * Crea una instancia de Curso y dos instancias de Persona para utilizar en las pruebas.
      */
     @BeforeEach
     public void setUp() {
@@ -40,3 +41,4 @@ public class CursoTest {
         assertTrue(curso.toString().contains(alumno2.toString()));
     }
 }
+

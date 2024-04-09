@@ -4,34 +4,33 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- *
- * <p>
- * Autor: SergioQuiñonesMajuelo Version: 0.1 Fecha: 09-04-2024
- * </p>
+ * Pruebas unitarias para la clase Nif. Autor: Sergio Quiñones Majuelo Versión:
+ * 0.1 Fecha: 09-04-2024
  */
 public class NifTest {
 
+    /**
+     * Prueba el método toString() de la clase Nif. Verifica si el formato de la
+     * cadena generada es correcto.
+     */
     @Test
     public void testToString() {
-        // Prueba para el método toString() de la clase Nif
         Nif nif = new Nif(65004204);
         assertEquals("65004204-V", nif.toString());
     }
 
+    /**
+     * Prueba el método equals() de la clase Nif. Verifica la igualdad entre
+     * instancias con el mismo número y letra, y la desigualdad en otros casos.
+     */
     @Test
     public void testEquals() {
-        // Prueba para el método equals() de la clase Nif
         Nif nif1 = new Nif(12345678);
         Nif nif2 = new Nif(12345678);
         Nif nif3 = new Nif(87654321);
 
-        // Verificar igualdad entre dos instancias con el mismo número y letra
         assertTrue(nif1.equals(nif2));
-
-        // Verificar desigualdad entre dos instancias con números diferentes
         assertFalse(nif1.equals(nif3));
-
-        // Verificar desigualdad entre dos instancias con la misma letra pero números diferentes
         assertFalse(nif2.equals(nif3));
     }
 }

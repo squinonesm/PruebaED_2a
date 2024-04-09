@@ -4,30 +4,31 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- *
- * <p>
- * Autor: SergioQuiñonesMajuelo Version: 0.1 Fecha: 09-04-2024
- * </p>
+ * Pruebas unitarias para la clase Persona. Autor: Sergio Quiñones Majuelo
+ * Versión: 0.1 Fecha: 09-04-2024
  */
 public class PersonaTest {
 
+    /**
+     * Prueba el método equals() de la clase Persona. Verifica la igualdad entre
+     * instancias con el mismo NIF, y la desigualdad en otros casos.
+     */
     @Test
     public void testEquals() {
-        // Prueba para el método equals() de la clase Persona
         Persona persona1 = new Persona(123456789, "Sergio Quinones", 'M', 28, 2, 1998);
         Persona persona2 = new Persona(123456789, "Sergio Quinones", 'M', 28, 2, 1998);
         Persona persona3 = new Persona(987654321, "Pepe Quinones", 'M', 21, 11, 1980);
 
-        // Verificar igualdad entre dos instancias con el mismo NIF
         assertTrue(persona1.equals(persona2));
-
-        // Verificar desigualdad entre dos instancias con diferentes NIF
         assertFalse(persona1.equals(persona3));
     }
 
+    /**
+     * Prueba el método getEdad() de la clase Persona. Verifica si la edad
+     * calculada es correcta.
+     */
     @Test
     public void testGetEdad() {
-        // Prueba para el método getEdad() de la clase Persona
         Persona persona = new Persona(123456789, "Sergio Quiñones", 'M', 28, 2, 1998);
         assertEquals(26, persona.getEdad());
     }
