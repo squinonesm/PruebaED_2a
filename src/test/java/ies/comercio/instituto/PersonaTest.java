@@ -4,8 +4,11 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- * Pruebas unitarias para la clase Persona. Autor: Sergio Quiñones Majuelo
- * Versión: 0.1 Fecha: 09-04-2024
+ * Pruebas unitarias para la clase Persona.
+ *
+ * @author Sergio Quiñones Majuelo
+ * @version: 0.1
+ * @since 09-04-2024
  */
 public class PersonaTest {
 
