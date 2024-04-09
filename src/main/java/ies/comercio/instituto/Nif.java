@@ -2,6 +2,11 @@ package ies.comercio.instituto;
 
 /**
  *
+ * La clase Persona representa a una persona en el contexto del instituto.
+ * Contiene información como el NIF, nombre, género y fecha de nacimiento.
+ * Implementa la interfaz Comparable para permitir la comparación entre personas
+ * basada en su NIF.
+ *
  * @author Sergio Quiñones Majuelo
  * @version 0.1
  * @since 09-04-2024
