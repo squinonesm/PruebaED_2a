@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/Sergio/OneDrive - Universidad de Burgos/EscritorioPcGrande/ENTORNOS ENJOYER/instituto/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Sergio/OneDrive - Universidad de Burgos/EscritorioPcGrande/ENTORNOS ENJOYER/instituto/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'instituto 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'instituto 1.0-SNAPSHOT API'
+ies.comercio.instituto
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\src\main\java = 1712679518130
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\allclasses-index.html = 1712683844887
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\allpackages-index.html = 1712683844890
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\copy.svg = 1712683844927
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\element-list = 1712683844825
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\help-doc.html = 1712683844921
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\index-all.html = 1712683844911
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\index.html = 1712683844916
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\jquery-ui.overrides.css = 1712683844941
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\member-search-index.js = 1712683844896
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\module-search-index.js = 1712683844892
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\overview-tree.html = 1712683844874
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\package-search-index.js = 1712683844893
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\script.js = 1712683844925
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\search-page.js = 1712683844931
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\search.html = 1712683844914
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\search.js = 1712683844929
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\stylesheet.css = 1712683844923
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\tag-search-index.js = 1712683844897
+C:\Users\Sergio\OneDrive - Universidad de Burgos\EscritorioPcGrande\ENTORNOS ENJOYER\instituto\target\site\apidocs\type-search-index.js = 1712683844894
