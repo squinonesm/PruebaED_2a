@@ -2,7 +2,7 @@ package ies.comercio.instituto;
 
 /**
  * @author Sergio Quiñones Majuelo
- * @version: 0.1
+ * @version 0.1
  * @since 09-04-2024
  */
 public class Instituto {
